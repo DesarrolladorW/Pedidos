@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\dasboard12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|solutionrelative:dasboard12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\dasboard12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|solutionrelative:dasboard12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03310BD-9B5A-4F70-8672-FBE2D0D221B7}|CapaDatos\\CapaDatos.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\capadatos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03310BD-9B5A-4F70-8672-FBE2D0D221B7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\capanegocio\\ndashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ndashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\capanegocio\\ndasboard12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ndasboard12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\capanegocio\\fechacantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\fechacantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03310BD-9B5A-4F70-8672-FBE2D0D221B7}|CapaDatos\\CapaDatos.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\capadatos\\fechacantidaddecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03310BD-9B5A-4F70-8672-FBE2D0D221B7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\fechacantidaddecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03310BD-9B5A-4F70-8672-FBE2D0D221B7}|CapaDatos\\CapaDatos.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\capadatos\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03310BD-9B5A-4F70-8672-FBE2D0D221B7}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\dasboard12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2488145-A6C9-4749-B4C5-9B07E8A97820}|PedidosApp1.csproj|solutionrelative:dasboard12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\franz\\documents\\tarea dreparar\\pedidosapp1\\capanegocio\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28B16D5-3AD3-4DA7-874F-AA539215AFF3}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ningreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloDTO.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaDatos\\ArticuloDTO.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ArticuloDTO.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaDatos\\ArticuloDTO.cs",
+              "RelativeToolTip": "CapaDatos\\ArticuloDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:07:04.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\NDashboard.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NDashboard.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\NDashboard.cs",
+              "RelativeToolTip": "CapaNegocio\\NDashboard.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:17:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dasboard12.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dasboard12.cs",
+              "RelativeDocumentMoniker": "Dasboard12.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dasboard12.cs",
+              "RelativeToolTip": "Dasboard12.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAUwK8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:03:46.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dasboard12.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dasboard12.cs",
+              "RelativeDocumentMoniker": "Dasboard12.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dasboard12.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Dasboard12.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:03:42.832Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Dashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:13:43.709Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NDasboard12.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\NDasboard12.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NDasboard12.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\NDasboard12.cs",
+              "RelativeToolTip": "CapaNegocio\\NDasboard12.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:00:32.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FechaCantidad.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\FechaCantidad.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\FechaCantidad.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\FechaCantidad.cs",
+              "RelativeToolTip": "CapaNegocio\\FechaCantidad.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:20:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FechaCantidadDecimal.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaDatos\\FechaCantidadDecimal.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\FechaCantidadDecimal.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaDatos\\FechaCantidadDecimal.cs",
+              "RelativeToolTip": "CapaDatos\\FechaCantidadDecimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:28:31.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaDatos\\DbConnection.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaDatos\\DbConnection.cs",
+              "RelativeToolTip": "CapaDatos\\DbConnection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:19:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dasboard12.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dasboard12.Designer.cs",
+              "RelativeDocumentMoniker": "Dasboard12.Designer.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\Dasboard12.Designer.cs",
+              "RelativeToolTip": "Dasboard12.Designer.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:43:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\NIngreso.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NIngreso.cs",
+              "ToolTip": "C:\\Users\\franz\\Documents\\tarea dreparar\\PedidosApp1\\CapaNegocio\\NIngreso.cs",
+              "RelativeToolTip": "CapaNegocio\\NIngreso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:18:37.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
